@@ -1,0 +1,1 @@
+- Don't write flash too full, otherwise factory calibration gets overwritten
